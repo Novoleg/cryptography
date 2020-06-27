@@ -11,3 +11,6 @@ print('Result: "' + security_message + '"')
 for counter in security_message:
     unsecurity_message += alphabet[(alphabet.index(counter) - shift) % len(alphabet)]
 print('Result: "' + unsecurity_message + '"')
+
+print('fdfsfsdfs')
+print('Durost')
